@@ -2,7 +2,10 @@
 <div>
     <div> 测试 GIT merge </div>
     <div>
-       1， 提交
+      提交1
+    </div>
+    <div>
+      提交2
     </div>
 </div>
 </template>
