@@ -7,5 +7,8 @@
     <div>
       提交2
     </div>
+     <div>
+      提交6
+    </div>
 </div>
 </template>
